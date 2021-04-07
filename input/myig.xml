@@ -8,10 +8,10 @@
   <url value="http://somewhere.org/fhir/uv/myig/ImplementationGuide/example.fhir.uv.myig"/>
   <!-- This version will propagate to all artifacts unless the "propagate-version" extension is overridden -->
   <version value="0.2.0"/>
-  <name value="helloworldig"/>
-  <title value="My Hello World IG"/>
+  <name value="matchesig"/>
+  <title value="mAtches Implentation Guide"/>
   <status value="draft"/>
-  <experimental value="false"/>
+  <experimental value="true"/>
   <publisher value="HL7 International - [Some] Work Group"/>
   <contact>
     <telecom>
@@ -20,7 +20,7 @@
       <value value="http://hl7.org/Special/committees/[something]"/>
     </telecom>
   </contact>
-  <description value="A brief description of what MyIG is about (probably the same text as in your readme)"/>
+  <description value="A brief description of what this is about"/>
   <jurisdiction>
     <!-- This will drive SNOMED release used -->
     <coding>
@@ -97,7 +97,7 @@
       <generation value="html"/>
       <page>
         <nameUrl value="index.html"/>
-        <title value="Hello World ImplementationGuide"/>
+        <title value="mAtches ImplementationGuide"/>
         <generation value="html"/>
       </page>
       <page>

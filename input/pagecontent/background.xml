@@ -1,10 +1,9 @@
 <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
-  <h3>Heading 1</h3>
+  <h3>PEPFAR's Proposed Approach to Patient Level Monitoring (PLM)</h3>
+  <h4>Why is PEPFAR moving to Patient Level Monitoring?</h4>
   <p>
     Some text
   </p>
   <h3>Heading 2</h3>
-	<p>
-		<img height="600" src="anImage.png" alt="A sample image"/>
-	</p>
+	
 </div>

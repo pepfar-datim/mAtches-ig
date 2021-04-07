@@ -3,7 +3,22 @@
   <a name="intro"> </a>
   <h3>Introduction</h3>
 	<p>
-    Trying my little hands on IG stuff.
+    mAtches is a tool that improves and facilitates exchange of data using, FHIR standards. Data experts can define data requirements for one or more indicators using FHIR Questionnaires. Non-techinical users can then map their proprietary data using mAtches' intuitive, easy-to-follow UI and generate a FHIR resource (bundle of questionnaire responses) allowing downstream systems consume their data in a consistent and compliant format.
+mAtches is part of PEPFAR's Data Aggregation Service for Health (DASH) architecture which is exporing ways to facilitate data exchange and allow for easy aggregation of patient-level data. DASH is a project within PEPFAR's Data Use Community. <br/>
+<b>Please note mAtches has been developed as a proof-of-concept project. We are working to productize mAtches to make it more generally accessible and more technically robust.</b>
+<br/>
+<h3>DASH Concept Diagram</h3>
+		<img height="600" src="plm_proof_of_concept_diagram.png" alt="PLM Concept Diagram"/>
+<br/>
+<p>This document discusses the following topics</p>
+      <ul>
+          <li>Defining patient level data</li>
+          <li>Benefits of using patient level data for Monitoring and Evaluation</li>
+          <li>Upstream benefits resulting from taking a patient-centric approach</li>
+          <li>Protocol boundaries between patient level systems and anonymized patient data used for Monitoring and Evaluation</li>
+          <li>Possible formats for patient level Monitoring and Evaluation data</li>
+          <li>mAtches Sample Questionnaire and Questionnaire Response</li>
+      </ul>
   </p>
 	<a name="technical"> </a>
 	<h3>Technical Overview</h3>
