@@ -1,2 +1,4 @@
-# sample-ig
-A sample, template-driven implementation guide that provides a starting environment to use a base for defining new IGs
+# mAtches-ig
+
+**Repo Owner:** **Vlad Shioshvili** [@vshioshvili](https://github.com/vshioshvili)
+
