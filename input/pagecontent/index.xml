@@ -8,7 +8,7 @@ mAtches is part of PEPFAR's Data Aggregation Service for Health (DASH) architect
 <b>Please note mAtches has been developed as a proof-of-concept project. We are working to productize mAtches to make it more generally accessible and more technically robust.</b>
 <br/>
 <h3>DASH Concept Diagram</h3>
-		<img height="600" src="plm_proof_of_concept_diagram.png" alt="PLM Concept Diagram"/>
+<div><img height="600" src="plm_proof_of_concept_diagram.png" alt="PLM Concept Diagram"/></div>
 <br/>
 <p>This document discusses the following topics</p>
       <ul>
