@@ -107,7 +107,7 @@
       </page>
       <page>
         <nameUrl value="spec.html"/>
-        <title value="Detailed Specification"/>
+        <title value="Architectural Specification"/>
         <generation value="markdown"/>
       </page>
       <page>

@@ -1,17 +1,25 @@
 <ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
-  <li><a href="index.html">Home</a></li>
-  <li><a href="toc.html">Table of Contents</a></li>
+  <li><a href="index.html">mAtches Overview</a></li>
+  <li><a href="spec.html">Architecture Summary</a></li>
+  <li><a href="index.html">Local Installation</a></li>
+  <!-- <li><a href="toc.html">Table of Contents</a></li> -->
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Background<b class="caret">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Resources<b class="caret">
       </b>
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="background.html">Background</a>
+        <a href="background.html">Questionnaire</a>
+      </li>
+      <li>
+        <a href="background.html">Questionnaire Response</a>
+      </li>
+      <li>
+        <a href="background.html">Structure Definition</a>
       </li>
     </ul>
   </li>
-  <li class="dropdown">
+  <!-- <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Specification<b class="caret">
       </b>
     </a>
@@ -21,7 +29,7 @@
       </li>
     </ul>
   </li>
-  <li><a href="artifacts.html">Artifact Index</a></li>
+  <li><a href="artifacts.html">Artifact Index</a></li> -->
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Support<b class="caret">
       </b>
