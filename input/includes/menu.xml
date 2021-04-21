@@ -9,10 +9,10 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="background.html">Sample Questionnaire</a>
+        <a href="questionnaire.html">Sample Questionnaire</a>
       </li>
       <li>
-        <a href="background.html">Sample Questionnaire Response</a>
+        <a href="questionnaireresponse.html">Sample Questionnaire Response</a>
       </li>
     </ul>
   </li>

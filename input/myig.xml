@@ -116,6 +116,16 @@
         <generation value="markdown"/>
       </page>
       <page>
+        <nameUrl value="questionnaire.html"/>
+        <title value="Sample Questionnaire"/>
+        <generation value="markdown"/>
+      </page>
+      <page>
+        <nameUrl value="questionnaireresponse.html"/>
+        <title value="Sample Questionnaire Response"/>
+        <generation value="markdown"/>
+      </page>
+      <page>
         <nameUrl value="downloads.html"/>
         <title value="Useful Downloads"/>
         <generation value="html"/>
