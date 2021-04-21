@@ -111,6 +111,11 @@
         <generation value="markdown"/>
       </page>
       <page>
+        <nameUrl value="installation.html"/>
+        <title value="Local Installation"/>
+        <generation value="markdown"/>
+      </page>
+      <page>
         <nameUrl value="downloads.html"/>
         <title value="Useful Downloads"/>
         <generation value="html"/>
