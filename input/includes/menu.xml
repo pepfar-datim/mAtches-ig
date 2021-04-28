@@ -1,7 +1,18 @@
 <ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
   <li><a href="index.html">mAtches Overview</a></li>
   <li><a href="spec.html">Architecture Summary</a></li>
-  <li><a href="installation.html">Local Installation</a></li>
+  <li class="dropdown">
+    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Installation<b class="caret">
+      </b></a>
+       <ul class="dropdown-menu">
+      <li>
+        <a href="installation.html">Local Installation</a>
+      </li>
+      <li>
+        <a href="#">Server Deployment</a>
+      </li>
+    </ul>
+  </li>
   <!-- <li><a href="toc.html">Table of Contents</a></li> -->
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Resources<b class="caret">
