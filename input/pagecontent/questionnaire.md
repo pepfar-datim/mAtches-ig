@@ -1,6 +1,6 @@
 ### Sample HIV Questionnaire
-A Questionnaire is an organized collection of questions intended to gather information from patients, providers or other individuals involved in the healthcare domain.
-For mAtches, the Questionnaire is used to map columns from the CSV or JSON data file before processing. Items in the sample Questionnaire below are to be mapped one-to-one with columns in the CSV file. 
+A [Questionnaire](https://www.hl7.org/fhir/questionnaire.html) is an organized collection of questions intended to gather information from patients, providers or other individuals involved in the healthcare domain.
+For mAtches, the Questionnaire is used to map columns from the CSV or JSON data file. The map is used to generate QuestionnaireResponse when data is uploaded. Items in the sample Questionnaire below are to be mapped one-to-one with columns in the CSV file. 
 
 ```json
 {

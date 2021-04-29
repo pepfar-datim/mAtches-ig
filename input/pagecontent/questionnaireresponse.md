@@ -1,4 +1,5 @@
-### Sample HIV Questionnaire Response
+### Sample HIV QuestionnaireResponse
+[QuestionnaireResponse](https://www.hl7.org/fhir/questionnaireresponse.html) provides a complete or partial list of answers (from uploaded data) in response to a previously mapped Questionnaire. WHen data is uploaded to mAtches, a QuestionnaireResponse FHIR bundle will be generated. Below is a sample QuestionnaireResponse;
 ```json
 {
   "resourceType": "QuestionnaireResponse",
