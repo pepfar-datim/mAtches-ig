@@ -16,17 +16,11 @@ on:
     branches: 
       - main
       - master
-      - rc1
-      - rc2
-      - qr-encoding
-      - rc2-umbrella
-      - rc2-ddcc
+
   pull_request:
     branches: 
       - main
-      - master
-      - rc1
-      - rc2      
+      - master      
 
   # Allows you to run this workflow manually from the Actions tabs
   workflow_dispatch:
